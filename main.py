@@ -23,11 +23,6 @@ playerX_change = 0
 playerY_change = 0
 player_angle = math.pi
 
-# icon
-pygame.display.set_caption('GunSoundSimulator')
-icon = pygame.image.load('GunSoundSimulatorIcon.png')
-pygame.display.set_icon(icon)
-
 # walls
 # wallImg = pygame.image.load('wall.png')
 # wallX = 450
